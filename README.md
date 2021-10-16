@@ -5,4 +5,4 @@ This is not the repository of the official version, but merely place where it ca
 * open-ness (anyone can fork this and suggest changes through a pull request)
 * transparency (we will track changes over time and they will be easy to see)
 
-The latest iteration is stored in latest.md
+The latest iteration is stored in [latest.md](https://github.com/narath/humanist_manifesto/blob/main/latest.md)
