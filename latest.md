@@ -1,8 +1,8 @@
-Humanism is a progressive philosophy of life that, without supernaturalism, affirms our ability and responsibility to lead ethical lives of personal fulfillment that aspire to the greater good of humanity.
+Humanism is a progressive philosophy of life based on reason that affirms our ability and responsibility to lead ethical lives of personal fulfillment that aspire to the greater good of humanity.
 
-The lifestance of Humanism—guided by reason, inspired by compassion, and informed by experience—encourages us to live life well and fully. It evolved through the ages and continues to develop through the efforts of thoughtful people who recognize that values and ideals, however carefully wrought, are subject to change as our knowledge and understandings advance.
+Humanists use reason, inspired by compassion, and informed by experience— to live life well and fully. Humanism evolved through the ages and continues to develop through the efforts of thoughtful people who recognize that values and ideals, however carefully wrought, are subject to change as our knowledge and understandings advance.
 
-This document is part of an ongoing effort to manifest in clear and positive terms the conceptual boundaries of Humanism, not what we must believe but a consensus of what we do believe. It is in this sense that we affirm the following:
+This document is part of an ongoing effort to manifest in clear and positive terms the principles that we think are useful for Humanists and for Humanist communities. We do not think belief is necessary in order to navigate uncertainty or incomplete knowledge, but we use the best evidence we can to try to make the best choices possible to create the best outcomes for the greatest number. Below is a summary of our communities views on some of the most important topics of interest to humanists and humanist communities:
 
 **Knowledge of the world is derived by observation, experimentation, and rational analysis.** Humanists find that science is the best method for determining this knowledge as well as for solving problems and developing beneficial technologies. We also recognize the value of new departures in thought, the arts, and inner experience—each subject to analysis by critical intelligence.
 
@@ -10,7 +10,7 @@ This document is part of an ongoing effort to manifest in clear and positive ter
 
 **Ethical values are derived from human need and interest as tested by experience.** Humanists ground values in human welfare shaped by human circumstances, interests, and concerns and extended to the global ecosystem and beyond. We are committed to treating each person as having inherent worth and dignity, and to making informed choices in a context of freedom consonant with responsibility.
 
-**Life’s fulfillment emerges from individual participation in the service of humane ideals.** We aim for our fullest possible development and animate our lives with a deep sense of purpose, finding wonder and awe in the joys and beauties of human existence, its challenges and tragedies, and even in the inevitability and finality of death. Humanists rely on the rich heritage of human culture and the lifestance of Humanism to provide comfort in times of want and encouragement in times of plenty.
+**Life’s fulfillment emerges from individual participation in the service of humane ideals.** We aim for our fullest possible development and animate our lives with a deep sense of purpose, finding wonder and awe in the joys and beauties of human existence, its challenges and tragedies, and even in the inevitability and finality of death. Humanists rely on the rich heritage of human culture and the connection to a common understanding of life and death within the humanist community to provide comfort in times of want and encouragement in times of plenty.
 
 **Humans are social by nature and find meaning in relationships.** Humanists long for and strive toward a world of mutual care and concern, free of cruelty and its consequences, where differences are resolved cooperatively without resorting to violence. The joining of individuality with interdependence enriches our lives, encourages us to enrich the lives of others, and inspires hope of attaining peace, justice, and opportunity for all.
 
@@ -24,3 +24,4 @@ Thus engaged in the flow of life, we aspire to this vision with the informed con
 
 **_Humanist Manifesto is a trademark of the American Humanist Association  
 © 2003 American Humanist Association_**
+- modified
